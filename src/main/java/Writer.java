@@ -1,5 +1,5 @@
-public class Writer {
-    public void write(char[] BOX_OF_NUMBERS) {
+public class ShowTableGame {
+    public void showTable(char[] BOX_OF_NUMBERS) {
         System.out.println("\n\n " + BOX_OF_NUMBERS[0] + " | " + BOX_OF_NUMBERS[1] + " | " + BOX_OF_NUMBERS[2] + " ");
         System.out.println("-----------");
         System.out.println(" " + BOX_OF_NUMBERS[3] + " | " + BOX_OF_NUMBERS[4] + " | " + BOX_OF_NUMBERS[5] + " ");
